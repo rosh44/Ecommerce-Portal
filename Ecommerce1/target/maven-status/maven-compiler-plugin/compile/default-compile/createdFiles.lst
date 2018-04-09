@@ -1,0 +1,7 @@
+com\niit\model\UserStatus.class
+com\niit\model\User.class
+com\niit\model\Role.class
+com\niit\dao\impl\UserDaoImpl.class
+com\niit\dao\UserDao.class
+com\niit\service\impl\UserDetailsServiceImpl.class
+com\niit\controller\HelloController.class
